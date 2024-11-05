@@ -1,0 +1,5 @@
+boto3
+boto3[crt]
+linode_api4
+python-dotenv
+
